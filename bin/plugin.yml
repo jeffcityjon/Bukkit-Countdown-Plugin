@@ -1,0 +1,9 @@
+name: Countdown
+main: com.cafebabe.bukkit.countdown.Countdown
+author: JeffCityJon
+version: 0.1
+description: A simple countdown plugin.
+commands:
+    countdown:
+        description: Start a countdown from 5 - 1 then Go!.
+        usage: /countdown
